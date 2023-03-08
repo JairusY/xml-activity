@@ -1,1 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<car>
+    <car1>
+        <car_brand>Toyota</car_brand>
+            <pickUp>
+                <development>
+                    <manufacturer>
+                        <manufacturer>Hino Motors, Ltd</manufacturer>
+                    </manufacturer>
+                    <details>
+                        <location>Japan</location>
+                        <company>Toyota</company>
+                        <launched>
+                            <date>March 1968</date>
+                        </launched>
+                    </details>
+                </development>
+
+                <availability>
+                    <availability1>Trail</availability1>
+                    <availability2>Road</availability2>
+                </availability>
+
+                <specifications>
+                    <model>CONQUEST 2.8 4X4 A/T</model>
+                    <DimensionAndWeight>
+                        <OverallDimensions>5,325 x 1,900 x 1,845 (mm)</OverallDimensions>
+                        <WheelBase>3085 (mm)</WheelBase>
+                        <SeatingCapacity>5</SeatingCapacity>
+                    </DimensionAndWeight>
+
+                    <Engine>
+                        <EngineType>2.8L Diesel, 4-Cylinder, 16-Valve DOHC Variable Nozzle Turbo with Air-cooled Intercooler</EngineType>
+                        <EngineDisplacement>2,755cc</EngineDisplacement>
+                        <MaximuOutput>204 / 3000 ~ 3,400  (ps/rpm)</MaximuOutput>
+                        <MaximumTorque>500 / 1,600 ~ 2,800 (Nm/Rpm)</MaximumTorque>
+                        <FuelCapacity>80 L</FuelCapacity>
+                    </Engine>
+
+                    <Transmission>
+                        <PowerTransmission>6-Speed A/T</PowerTransmission>
+                        <FrontBrakeRearBrake>Ventilated Discs/ Drum Type</FrontBrakeRearBrake>
+                        <Tires> 265/60 R18</Tires>
+                        <WheelsSize>18"Alloy</WheelsSize>
+                    </Transmission>
+                </specifications>
+            </pickUp>
+    </car1>
